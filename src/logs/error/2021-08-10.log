@@ -1,0 +1,14 @@
+2021-08-10 15:06:23 error: [POST] /register >> StatusCode:: 409, Message:: your email 'a@s.com' already exists
+2021-08-10 17:21:59 error: [POST] /register >> StatusCode:: 409, Message:: your email 'a@s.com' already exists
+2021-08-10 17:28:48 error: uncaughtException: hpp is not defined
+ReferenceError: hpp is not defined
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:57:14)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:23:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:9:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-10 17:52:04 error: [POST] /register >> StatusCode:: 409, Message:: This email already exists

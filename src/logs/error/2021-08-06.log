@@ -1,0 +1,329 @@
+2021-08-06 00:38:49 error: uncaughtException: Unexpected token 'export'
+/home/muqarrab/Documents/node/app/src/utils/util.js:7
+export const isEmpty = value => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/services/auth.service.js:3:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/controllers/auth.controller.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+2021-08-06 00:39:03 error: uncaughtException: Unexpected token 'export'
+/home/muqarrab/Documents/node/app/src/utils/util.js:7
+export const isEmpty = value => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/services/auth.service.js:3:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/controllers/auth.controller.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+2021-08-06 00:40:09 error: uncaughtException: Unexpected token 'export'
+/home/muqarrab/Documents/node/app/src/utils/util.js:7
+export const isEmpty = value => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/services/auth.service.js:3:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/controllers/auth.controller.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+2021-08-06 00:40:37 error: uncaughtException: AuthRoutes is not defined
+ReferenceError: AuthRoutes is not defined
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-06 00:42:14 error: uncaughtException: Router is not defined
+ReferenceError: Router is not defined
+    at AuthRoutes.<instance_members_initializer> (/home/muqarrab/Documents/node/app/src/routes/auth.routes.js:6:12)
+    at new AuthRoutes (/home/muqarrab/Documents/node/app/src/routes/auth.routes.js:4:1)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-06 00:43:27 error: uncaughtException: Unexpected token 'export'
+/home/muqarrab/Documents/node/app/src/utils/util.js:7
+export const isEmpty = value => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/services/auth.service.js:3:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/controllers/auth.controller.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+2021-08-06 00:43:35 error: uncaughtException: Unexpected token 'export'
+/home/muqarrab/Documents/node/app/src/utils/util.js:7
+export const isEmpty = value => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/services/auth.service.js:3:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/controllers/auth.controller.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+2021-08-06 00:43:54 error: uncaughtException: Unexpected token 'export'
+/home/muqarrab/Documents/node/app/src/utils/util.js:7
+export const isEmpty = value => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/services/auth.service.js:3:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/controllers/auth.controller.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+2021-08-06 00:44:01 error: uncaughtException: Unexpected token 'export'
+/home/muqarrab/Documents/node/app/src/utils/util.js:7
+export const isEmpty = value => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/services/auth.service.js:3:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/controllers/auth.controller.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+2021-08-06 00:44:07 error: uncaughtException: Unexpected token '.'
+/home/muqarrab/Documents/node/app/src/services/auth.service.js:23
+module.exports = AuthService;
+      ^
+
+SyntaxError: Unexpected token '.'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/controllers/auth.controller.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/routes/auth.routes.js:2:24)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+2021-08-06 00:44:14 error: uncaughtException: Unexpected token 'export'
+/home/muqarrab/Documents/node/app/src/utils/util.js:7
+export const isEmpty = value => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/services/auth.service.js:3:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/controllers/auth.controller.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+2021-08-06 00:45:56 error: uncaughtException: Unexpected token 'export'
+/home/muqarrab/Documents/node/app/src/utils/util.js:7
+export const isEmpty = value => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/services/auth.service.js:3:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/controllers/auth.controller.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+2021-08-06 00:46:38 error: uncaughtException: Unexpected token 'export'
+/home/muqarrab/Documents/node/app/src/utils/util.js:7
+export const isEmpty = value => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/services/auth.service.js:3:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/controllers/auth.controller.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+2021-08-06 00:46:55 error: uncaughtException: Unexpected token 'export'
+/home/muqarrab/Documents/node/app/src/utils/util.js:7
+export const isEmpty = value => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/services/auth.service.js:3:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/controllers/auth.controller.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+2021-08-06 01:05:35 error: [GET] /register >> StatusCode:: 400, Message:: Unexpected token } in JSON at position 89
+2021-08-06 01:15:38 error: uncaughtException: routes.forEach is not a function
+TypeError: routes.forEach is not a function
+    at App.initializeRoutes (/home/muqarrab/Documents/node/app/src/app.js:62:12)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:22:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:12:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-06 01:19:19 error: uncaughtException: routes.forEach is not a function
+TypeError: routes.forEach is not a function
+    at App.initializeRoutes (/home/muqarrab/Documents/node/app/src/app.js:64:12)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:24:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:12:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-06 01:21:18 error: uncaughtException: route is not defined
+ReferenceError: route is not defined
+    at App.initializeRoutes (/home/muqarrab/Documents/node/app/src/app.js:64:23)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:24:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:12:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-06 01:23:28 error: [POST] /register >> StatusCode:: 500, Message:: this.authService is not a function
+2021-08-06 01:24:35 error: [POST] /register >> StatusCode:: 500, Message:: userDate is not defined
+2021-08-06 01:24:54 error: [POST] /register >> StatusCode:: 500, Message:: userDate is not defined
+2021-08-06 01:26:15 error: [POST] /register >> StatusCode:: 500, Message:: conosle is not defined
+2021-08-06 01:26:44 error: [POST] /register >> StatusCode:: 500, Message:: userDate is not defined
+2021-08-06 01:29:21 error: [POST] /register >> StatusCode:: 500, Message:: userDate is not defined
+2021-08-06 01:29:38 error: [POST] /register >> StatusCode:: 500, Message:: userDate is not defined
+2021-08-06 01:29:59 error: [POST] /register >> StatusCode:: 409, Message:: your email a@s.com already exists
+2021-08-06 01:30:09 error: [POST] /register >> StatusCode:: 409, Message:: your email 'a@s.com' already exists
+2021-08-06 01:38:05 error: [POST] /register >> StatusCode:: 409, Message:: your email 'a@s.com' already exists
+2021-08-06 01:41:58 error: [POST] /register >> StatusCode:: 409, Message:: your email 'a@s.com' already exists

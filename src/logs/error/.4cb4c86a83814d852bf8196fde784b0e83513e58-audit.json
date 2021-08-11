@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/muqarrab/Documents/node/app/src/logs/error/.4cb4c86a83814d852bf8196fde784b0e83513e58-audit.json",
+    "files": [
+        {
+            "date": 1628088355690,
+            "name": "/home/muqarrab/Documents/node/app/src/logs/error/2021-08-04.log",
+            "hash": "41ec85b4ebff6bde2dc8e06611c1e1d2"
+        },
+        {
+            "date": 1628192329222,
+            "name": "/home/muqarrab/Documents/node/app/src/logs/error/2021-08-06.log",
+            "hash": "299e058fb368888d9b9a61b76bca4bc7"
+        },
+        {
+            "date": 1628589981237,
+            "name": "/home/muqarrab/Documents/node/app/src/logs/error/2021-08-10.log",
+            "hash": "514fb00c02b05b0740170ca7c2e1d65f"
+        }
+    ]
+}

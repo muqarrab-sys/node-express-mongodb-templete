@@ -1,0 +1,467 @@
+2021-08-04 19:47:13 error: uncaughtException: set is not defined
+ReferenceError: set is not defined
+    at App.connectToDatabase (/home/muqarrab/Documents/node/app/src/app.js:35:7)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:16:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 19:47:21 error: uncaughtException: set is not defined
+ReferenceError: set is not defined
+    at App.connectToDatabase (/home/muqarrab/Documents/node/app/src/app.js:35:7)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:16:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 19:47:37 error: uncaughtException: set is not defined
+ReferenceError: set is not defined
+    at App.connectToDatabase (/home/muqarrab/Documents/node/app/src/app.js:33:7)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:14:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 19:48:32 error: uncaughtException: set is not defined
+ReferenceError: set is not defined
+    at App.connectToDatabase (/home/muqarrab/Documents/node/app/src/app.js:35:7)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:16:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 19:48:50 error: uncaughtException: set is not defined
+ReferenceError: set is not defined
+    at App.connectToDatabase (/home/muqarrab/Documents/node/app/src/app.js:35:7)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:16:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 19:48:58 error: uncaughtException: set is not defined
+ReferenceError: set is not defined
+    at App.connectToDatabase (/home/muqarrab/Documents/node/app/src/app.js:33:7)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:14:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 19:49:09 error: uncaughtException: set is not defined
+ReferenceError: set is not defined
+    at App.connectToDatabase (/home/muqarrab/Documents/node/app/src/app.js:33:7)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:14:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 19:49:12 error: uncaughtException: set is not defined
+ReferenceError: set is not defined
+    at App.connectToDatabase (/home/muqarrab/Documents/node/app/src/app.js:33:7)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:14:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 19:49:47 error: uncaughtException: set is not defined
+ReferenceError: set is not defined
+    at App.connectToDatabase (/home/muqarrab/Documents/node/app/src/app.js:33:7)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:14:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 19:49:51 error: uncaughtException: set is not defined
+ReferenceError: set is not defined
+    at App.connectToDatabase (/home/muqarrab/Documents/node/app/src/app.js:33:7)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:14:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 19:50:12 error: uncaughtException: set is not defined
+ReferenceError: set is not defined
+    at App.connectToDatabase (/home/muqarrab/Documents/node/app/src/app.js:33:7)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:14:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 19:50:20 error: uncaughtException: set is not defined
+ReferenceError: set is not defined
+    at App.connectToDatabase (/home/muqarrab/Documents/node/app/src/app.js:35:7)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:16:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 19:51:36 error: uncaughtException: set is not defined
+ReferenceError: set is not defined
+    at App.connectToDatabase (/home/muqarrab/Documents/node/app/src/app.js:35:7)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:16:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:27:34 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:51:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:27:54 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:51:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:27:59 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:51:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:28:14 error: uncaughtException: hpp is not defined
+ReferenceError: hpp is not defined
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:51:14)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:28:25 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:51:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:28:35 error: uncaughtException: Cannot read property 'forEach' of undefined
+TypeError: Cannot read property 'forEach' of undefined
+    at App.initializeRoutes (/home/muqarrab/Documents/node/app/src/app.js:60:12)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:22:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:28:44 error: uncaughtException: Cannot read property 'forEach' of undefined
+TypeError: Cannot read property 'forEach' of undefined
+    at App.initializeRoutes (/home/muqarrab/Documents/node/app/src/app.js:60:12)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:22:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:29:38 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:51:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:29:42 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:51:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:29:50 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:51:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:29:55 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:52:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:29:58 error: uncaughtException: hpp is not defined
+ReferenceError: hpp is not defined
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:53:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:30:03 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:54:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:30:07 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:55:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:30:13 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:56:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:30:34 error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:210:11)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:50:26)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:39:56 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:51:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:43:26 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:53:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:5:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:50:38 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:53:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:8:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:57:32 error: uncaughtException: hpp is not defined
+ReferenceError: hpp is not defined
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:55:14)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:8:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:57:49 error: uncaughtException: hpp is not defined
+ReferenceError: hpp is not defined
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:55:14)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:8:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:58:29 error: uncaughtException: hpp is not defined
+ReferenceError: hpp is not defined
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:55:14)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:8:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:58:39 error: uncaughtException: Cannot read property 'lazyrouter' of undefined
+TypeError: Cannot read property 'lazyrouter' of undefined
+    at use (/home/muqarrab/Documents/node/app/node_modules/express/lib/application.js:214:8)
+    at App.initializeMiddlewares (/home/muqarrab/Documents/node/app/src/app.js:53:5)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:21:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:8:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 20:59:41 error: uncaughtException: Cannot read property 'forEach' of undefined
+TypeError: Cannot read property 'forEach' of undefined
+    at App.initializeRoutes (/home/muqarrab/Documents/node/app/src/app.js:60:12)
+    at new App (/home/muqarrab/Documents/node/app/src/app.js:22:10)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/server.js:8:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+2021-08-04 21:47:34 error: uncaughtException: Unexpected token 'export'
+/home/muqarrab/Documents/node/app/src/utils/util.js:7
+export const isEmpty = value => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/services/auth.service.js:3:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/controllers/auth.controller.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+2021-08-04 23:37:30 error: uncaughtException: Unexpected token 'export'
+/home/muqarrab/Documents/node/app/src/utils/util.js:7
+export const isEmpty = value => {
+^^^^^^
+
+SyntaxError: Unexpected token 'export'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/services/auth.service.js:3:17)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/muqarrab/Documents/node/app/src/controllers/auth.controller.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
