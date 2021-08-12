@@ -19,6 +19,16 @@
             "date": 1628589981237,
             "name": "/home/muqarrab/Documents/node/app/src/logs/error/2021-08-10.log",
             "hash": "514fb00c02b05b0740170ca7c2e1d65f"
+        },
+        {
+            "date": 1628698396523,
+            "name": "/home/muqarrab/Documents/node/app/src/logs/error/2021-08-11.log",
+            "hash": "53d4d7ed61004961bb66e48d6fa483c1"
+        },
+        {
+            "date": 1628748458072,
+            "name": "/home/muqarrab/Documents/node/app/src/logs/error/2021-08-12.log",
+            "hash": "8f4f229f2a78d9c282cd7d01540015e7"
         }
     ]
 }

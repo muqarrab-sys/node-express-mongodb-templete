@@ -1,5 +1,6 @@
 const { Router } = require('express');
 const AuthController = require('../controllers/auth.controller');
+const asyncMiddleware = require('../middlewares/async.middleware');
 
 class AuthRoutes {
   path = '/';
@@ -12,9 +13,10 @@ class AuthRoutes {
 
   initializeRoutes() {
     /*
-    * @ Route: /register
-    */
-    this.router.post(`${this.path}register`, this.authController.register);
+     * @Route: /register
+     */
+    this.router.post(`${this.path}register`, asyncMiddleware(this.authController.register));
+    this.router.post(`${this.path}login`, asyncMiddleware(this.authController.login));
   }
 }
 
