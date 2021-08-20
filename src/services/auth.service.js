@@ -1,4 +1,5 @@
 const bcrypt = require('bcrypt');
+const _ = require('lodash');
 const { isEmpty } = require('../utils/util');
 const { userModel, userSchemaValidation } = require('../models/users.model');
 const HttpException = require('../exceptions/HttpException');
@@ -30,13 +31,15 @@ class AuthService {
   async login(userCredantials) {
     if (isEmpty(userCredantials)) throw new HttpException(400, 'User data is empty');
 
-    const userData = await this.users.findOne({ email: userCredantials.email });
+    let userData = await this.users.findOne({ email: userCredantials.email });
     if (!userData) throw new HttpException(400, `This email was not found`);
 
     const isPasswordMatching = await bcrypt.compare(userCredantials.password, userData.password);
     if (!isPasswordMatching) throw new HttpException(400, `Incorrect password`);
 
     const { token } = createAuthToken(userData);
+
+    userData = _.pick(userData, ['_id', 'firstName', 'lastName', 'email']);
 
     return { userData, token };
   }
